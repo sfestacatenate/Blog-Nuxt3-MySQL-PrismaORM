@@ -1,0 +1,6 @@
+{
+  "tailwindCSS.experimental.configFile": ".nuxt/tailwind.config/viewer-config.cjs",
+  "files.associations": {
+    "*.css": "tailwindcss"
+  }
+}
